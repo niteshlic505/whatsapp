@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- WhatsApp-style rounded chat bubble badge -->
+    <path
+        android:fillColor="#25D366"
+        android:pathData="M54,22 C37.43,22 24,35.43 24,52 C24,57.73 25.62,63.09 28.43,67.66 L25,82 L39.77,78.68 C44.05,81.08 48.88,82.47 54,82.47 C70.57,82.47 84,69.04 84,52.47 C84,35.9 70.57,22 54,22 Z" />
+
+    <!-- Darker emerald inner card layer for depth -->
+    <path
+        android:fillColor="#0D5C3E"
+        android:pathData="M54,27 C40.2,27 29,38.2 29,52 C29,56.76 30.34,61.2 32.67,64.99 L30.2,74.5 L39.98,72.33 C44.07,74.5 48.84,75.76 54,75.76 C67.8,75.76 79,64.56 79,50.76 C79,36.96 67.8,27 54,27 Z" />
+
+    <!-- Automation Lightning Bolt in White/Gold -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,33 L42,52 L52,52 L46,69 L66,48 L56,48 Z" />
+
+    <!-- Small clock indicator badge on bottom-right of chat -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M66,60 A9,9 0 1,0 66,78 A9,9 0 1,0 66,60 Z" />
+
+    <!-- Clock hands inside badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65.2,63.5 L65.2,69.2 L69.5,71.5 L70.2,70.2 L66.7,68.2 L66.7,63.5 Z" />
+</vector>

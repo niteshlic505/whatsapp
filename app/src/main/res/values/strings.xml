@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WA Automation Pro</string>
+    <string name="app_short_name">WA Pro</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_automations">Automations</string>
+    <string name="nav_messages">Messages</string>
+    <string name="nav_vault">History Vault</string>
+    <string name="nav_settings">Settings</string>
+</resources>
